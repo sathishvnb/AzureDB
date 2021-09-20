@@ -1,0 +1,19 @@
+new resources for testing:
+aadd-db-loganalytics  // databricks workspace
+databricks-loganalytics-vnet // vnet name
+databricks-nsg // nsg name
+
+aaddtestingloganalytics // log analytics workspace
+
+
+
+b4f5dfe4-3f6f-4245-8ff0-94ce260e1b50 // log analytics workspace id
+sp1QPuOGxqOIkoaMRpxOrAVb1u68HZaV5ASgpzXgxqnM+3IuYNhaoC4Lwf+iSGo3Nyhwp25AqGDJgxz9UqRfuw==  // log analytics key
+
+
+
+
+aaddtest
+
+
+aaddrgtest
